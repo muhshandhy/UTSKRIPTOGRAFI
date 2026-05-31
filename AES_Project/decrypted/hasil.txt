@@ -1,0 +1,1 @@
+AES (Advanced Encryption Standard) adalah algoritma kriptografi simetris yang digunakan untuk menjaga kerahasiaan data. Pada proyek ini dilakukan implementasi AES-256 dengan mode CBC menggunakan Python dan library pycryptodome untuk mengenkripsi dan mendekripsi file teks menggunakan password pengguna.
